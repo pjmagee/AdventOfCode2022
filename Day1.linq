@@ -47,11 +47,5 @@ async Task Main()
 		.Sum(x => x.Total)
 		.Dump();
 	}
-
-
-	// Load data properly 
-	
 	
 }
-
-// You can define other methods, fields, classes and namespaces here
